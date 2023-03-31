@@ -1,0 +1,45 @@
+body{
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: aqua;
+    padding :20px 50px;
+
+
+}
+.navTop{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+
+}
+.bumperoffer{
+    color:blue;
+    border-bottom: 2px solid gold;
+}
+.menuItem{
+    color:blue;
+}
+.slider{
+   background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F557039047657736322%2F&psig=AOvVaw1DE4KcrJ3pduIasRLT3rC9&ust=1678929579922000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjgmJzi3P0CFQAAAAAdAAAAABAh");
+}
+.sliderWrapper{
+    display: flex;
+}
+.sliderWrapper2{
+    display:flex;
+}
+.sliderWrapper3{
+    display:flex;
+}
+.sliderWrapper4{
+    display:flex;
+}
+.sliderWrapper5{
+    display:flex;
+}
+.sliderWrapper6{
+    display:flex;
+}
